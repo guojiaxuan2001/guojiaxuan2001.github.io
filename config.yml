@@ -1,0 +1,27 @@
+baseURL: "https://example.org/"
+languageCode: "en-us"
+theme: "PaperMod"
+title: "Kelly's Space"
+
+params:
+  homeInfoParams:
+    Title: "Welcome to my world"
+    Content: "Kelly"
+    authorDescription: "Developer"
+    info: "Welcome to my world"
+    darkModeTheme: "data-dark-mode"
+
+menu:
+  main:
+    - name: "Blog"
+      url: "/blog/"
+      weight: 1
+    - name: "Archive"
+      url: "/archive/"
+      weight: 2
+    - name: "Contact"
+      url: "/contact/"
+      weight: 3
+    - name: "Statistic"
+      url: "/xx/"
+      weight: 4
