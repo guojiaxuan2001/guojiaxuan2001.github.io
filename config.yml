@@ -14,14 +14,14 @@ params:
 menu:
   main:
     - name: "Blog"
-      url: "https://guojiaxuan2001.github.io/posts/posts/"
+      url: "https://guojiaxuan2001.github.io/posts/"
       weight: 1
     - name: "Archive"
-      url: "https://guojiaxuan2001.github.io/posts/archive/"
+      url: "https://guojiaxuan2001.github.io/archive/"
       weight: 2
     - name: "Contact"
-      url: "https://guojiaxuan2001.github.io/posts/contact/"
+      url: "https://guojiaxuan2001.github.io/contact/"
       weight: 3
     - name: "Statistic"
-      url: "https://guojiaxuan2001.github.io/posts/xx/"
+      url: "https://guojiaxuan2001.github.io/xx/"
       weight: 4
