@@ -14,7 +14,7 @@ params:
 menu:
   main:
     - name: "Blog"
-      url: "/posts/"
+      url: "/blog/"
       weight: 1
     - name: "Archive"
       url: "/archive/"
