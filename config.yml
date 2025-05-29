@@ -14,14 +14,14 @@ params:
 menu:
   main:
     - name: "Blog"
-      url: "/blog/"
+      url: "/"
       weight: 1
     - name: "Archive"
-      url: "/archive/"
+      url: "/"
       weight: 2
     - name: "Contact"
-      url: "/contact/"
+      url: "/"
       weight: 3
     - name: "Statistic"
-      url: "/xx/"
+      url: "/"
       weight: 4
